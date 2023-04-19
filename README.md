@@ -29,11 +29,11 @@ F=(((C.B'.A)+(D.C'.A)+(C.B'.A))')'
 
 ## Procedure
 ## Program:
-/*
+```
 Program to implement the given logic function using NAND and NOR gates and to verify its operations in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
+Developed by: Prethiveerajan P
+RegisterNumber: 212221230079 
+```
 ## Using NAND:
 ```verilog
    module combo1(a,b,c,d,f);
