@@ -47,6 +47,7 @@ Give the respective inputs for timing diagram and obtain the results.
 ## Program:
 ```
 ```
+```
 F1:
 
 module ff(a,b,c,d,f1);
